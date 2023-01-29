@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dekko&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #f2ebe2;
+}
+
+header {
+    height: 7vh;
+    width: 90vw;
+    background-color: #3c3c3c;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vh;
+    font-size: 72px;
+    font-family: 'Dekko', cursive;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
